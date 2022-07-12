@@ -1,0 +1,30 @@
+.container {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+text-align: center;
+}
+.header {
+  text-align: center;
+  color: rgb(62, 164, 228);
+  font-weight: 900;
+  line-height: 48px;
+  margin: 20px 0 30px;
+  padding: 15px;
+}
+
+
+.table {
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+p {
+  padding: 15px 0;
+  font-size: 18px;
+  line-height: 28px;
+  font-family: "Times New Roman", Times, serif;
+}
+h2 {
+  text-align: center;
+}
+
+
